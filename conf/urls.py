@@ -10,7 +10,7 @@ schema_view = get_schema_view(
     openapi.Info(
         title='Suv yetkazib berish loyihasi uchun Doc fayl',
         default_version='v1.0',
-        description='Front-end, Android, Desktop dasturchilar uchun Blog-API DOCS',
+        description='Front-end, Android, Desktop dasturchilar uchun Suv yetkazib berish xizmati API DOCS',
         contact=openapi.Contact(email='AkmaljonGold@gmail.com'),
     ),
     public=True,
